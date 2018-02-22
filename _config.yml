@@ -1,10 +1,10 @@
 # Site settings
 title: Focus Blog
-SEOTitle: 奔跑的大龙猫 | BY Blog
+SEOTitle: 奔跑的大龙猫 | Focus Blog
 header-img: img/post-bg-desk.jpg
 email: 18516523981@163.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, web, gaoguofeng, 高国峰, java, GGFocus, "
+keyword: " web, gaoguofeng, 高国峰, java, GGFocus, "
 url: "http://ggfocus.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/GGFocus/GGFocus.github.io.git" # you code repository
@@ -18,7 +18,7 @@ sidebar-avatar: /img/gaoguofeng.jpg      # use absolute URL, seeing it's used in
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
+# weibo_username:   gaoguofeng
 zhihu_username:     奔跑的大龙猫
 github_username:    GGFocus
 facebook_username:  baiying.qiu.7
