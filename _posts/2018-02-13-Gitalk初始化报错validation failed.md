@@ -32,7 +32,7 @@ tags:
 ### 分析及解决方案
 此问题和配置的ID长度有关，ID太长，导致初始化失败。如下：
 
-``` javascript
+``` HTML
   <!--Gitalk评论start  -->
   {% if site.gitalk.enable %}
   <!-- 引入Gitalk评论插件  -->
@@ -57,7 +57,7 @@ tags:
 
 把ID改短一点，修改后为：
 
-``` javascript
+``` HTML
   <!--Gitalk评论start  -->
   {% if site.gitalk.enable %}
   <!-- 引入Gitalk评论插件  -->
@@ -79,4 +79,4 @@ tags:
   {% endif %}
   <!-- Gitalk end -->
 ```
-修改后刷新即可。
+此代码在_layouts文件夹中的post.html中,修改后刷新即可。
