@@ -57,26 +57,11 @@ tags:
 
 把ID改短一点，修改后为：
 
-``` HTML
-  <!--Gitalk评论start  -->
-  {% if site.gitalk.enable %}
-  <!-- 引入Gitalk评论插件  -->
-  <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
-  <script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script>
-  <div id="gitalk-container"></div>
-  <script type="text/javascript">
-      var gitalk = new Gitalk({
-      clientID: '{{site.gitalk.clientID}}',
-      clientSecret: '{{site.gitalk.clientSecret}}',
-      repo: '{{site.gitalk.repo}}',
-      owner: '{{site.gitalk.owner}}',
-      admin: ['{{site.gitalk.admin}}'],
-      distractionFreeMode: {{site.gitalk.distractionFreeMode}},
-      id: '{{page.title}}',
-      });
-      gitalk.render('gitalk-container');
-  </script>
-  {% endif %}
-  <!-- Gitalk end -->
-```
+
+
+![](https://github.com/GGFocus/GGFocus.github.io/blob/master/img/home-bg.jpg)
+
+
+
+
 此代码在_layouts文件夹中的post.html中,修改后刷新即可。
