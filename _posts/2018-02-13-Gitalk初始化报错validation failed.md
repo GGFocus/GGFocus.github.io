@@ -4,7 +4,7 @@ title: Gitalk初始化报错"validation failed"
 subtitle: 记录总结评论插件初始化错误
 date: 2018-02-22 T00:00:00.000Z
 author: 高国峰
-header-img: img/post-bg-debug.jpg
+header-img: img/post-bg-debug.png
 catalog: true
 tags:
   - github
