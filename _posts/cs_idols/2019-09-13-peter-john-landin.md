@@ -6,6 +6,7 @@ author: "Hux"
 header-style: text
 tags:
   - CS Idols
+  - 想法
 ---
 
 > - [wiki](https://en.wikipedia.org/wiki/Peter_Landin) 
