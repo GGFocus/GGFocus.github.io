@@ -2,7 +2,7 @@
 title: the Guardian Blog
 SEOTitle: 善守者的博客 | the Guardian Blog
 header-img: img/home-bg.jpg
-email: gaoguofengcoder@gmail.com
+email: huxpro@gmail.com
 description: "昔之善战者，先为不可胜，以待敌之可胜。不可胜在己，可胜在敌。故善战者，能为不可胜，不使敌之必可胜。故曰：胜可知，而不可为"
 keyword: "Guardian, 善守者, 孙子兵法, the Guardian, @Guardian, 善守者的博客, 善守者, 博客, 个人网站, 互联网, Web, JavaScript, java, 前端, 后端, 设计, 设计模式"
 url: "https://ggfocus.github.io/"              # your host, for absolute URL
@@ -13,8 +13,13 @@ future: true
 
 # SNS settings
 RSS: false
+weibo_username:     huxpro
+zhihu_username:     huxpro
+github_username:    huxpro
+twitter_username:   huxpro
+#facebook_username:  huxpro
+#linkedin_username:  firstname-lastname-idxxxx
 
-github_username:   GGFocus 
 
 
 # Build settings
@@ -54,7 +59,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: 善守者
+disqus_username: hux
 
 # Netease settings
 netease_comment: false
@@ -67,14 +72,14 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain:  
+ga_domain: huangxuan.me
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "胜可知，而不可为！"
-sidebar-avatar: /img/home-bg.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "黄玄，前端娱乐圈 NPC，编程语言/编译器初心者 <br> An UI/Frontend dev & designer accidentally growing into a compiler/PL hacker."
+sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
